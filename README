@@ -1,0 +1,2 @@
+PM2 Start Command
+ pm2 start yarn --name "CustomerWeb" -- start
