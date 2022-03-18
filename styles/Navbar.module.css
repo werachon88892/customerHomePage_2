@@ -1,0 +1,28 @@
+.modal{
+  top: 15%;
+}
+
+.modalBody{
+  border-bottom: 1px solid #dee2e6;
+  width: 100%;
+}
+
+.modalButton{
+  background: #33cc33;
+  border-radius: 10px;
+  border: none;
+}
+
+.modalButton:hover,
+.btn-primary:hover{
+  background: #33cc33;
+}
+
+.lang{
+  width: 20px;
+  height: 20px;
+  float: right;
+}
+.anchor{
+  cursor: pointer;
+}

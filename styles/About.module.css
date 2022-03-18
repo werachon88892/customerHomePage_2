@@ -1,0 +1,37 @@
+.readMoreLessMore,
+.readMoreLessLess {
+  color: #33cc33;
+}
+
+.cardContainer{
+  display: flex;
+  justify-content: space-evenly;
+  height: 100%;
+  margin: 40px 0;
+  flex-wrap: wrap;
+}
+
+.wrapperContent{
+  min-height: 300px;
+}
+.title{
+  display: flex;
+  justify-content: center;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.content p{
+  border: none;
+}
+
+.aboutContentImg{
+  float: right;
+  border-radius: 15px;
+}
+
+.aboutTitleSection{
+  text-align: center;
+  font-size: 18px;
+  font-weight: 900;
+}

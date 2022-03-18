@@ -1,0 +1,15 @@
+.readMoreLessMore,
+.readMoreLessLess {
+  color: #33cc33;
+}
+
+.cardsTags{
+  min-height: 80px;
+}
+
+.listTags{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
