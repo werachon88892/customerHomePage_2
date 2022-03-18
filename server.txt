@@ -1,0 +1,61 @@
+server IP
+18.183.74.184
+key:
+userName:ubuntu
+  passwd:a123222333
+su passw:a123222333
+
+
+root@ip-172-31-4-233:/home/greenchain-old/frontend/
+
+
+
+
+
+
+
+
+
+
+
+apt remove nodejs
+
+wget https://nodejs.org/dist/v16.13.2/node-v16.13.2-linux-x64.tar.xz
+mkdir -p /usr/local/lib/nodejs
+tar -xJvf node-$VERSION-$DISTRO.tar.xz -C /usr/local/lib/nodejs
+
+
+export PATH=/usr/local/lib/nodejs/node-v16.13.2-linux-x64/bin:$PATH
+
+
+
+
+
+
+CREATE USER 'admin'@'%' IDENTIFIED BY 'admin';
+
+GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
+
+
+werachon8889
+zx061919236
+websiteforcompanyhomepageinfront-498393409.ap-northeast-1.elb.amazonaws.com
+http://websiteforcompanyhomepagebackend-737039298.ap-northeast-1.elb.amazonaws.com/myadmin/
+admin
+admin
+http://websiteforcompanyhomepagebackend-737039298.ap-northeast-1.elb.amazonaws.com/add_new6/admin/main.php
+admin
+admin
+websiteforcompanyhomepagebackend-737039298.ap-northeast-1.elb.amazonaws.com
+
+nano /home/greenchain/frontend/package.json
+yarn build
+yarn start 
+
+
+https://techflybird.com/add_new6/img_news/img_61a96f02d50a3.png
+http://websiteforcompanyhomepagebackend-737039298.ap-northeast-1.elb.amazonaws.com/add_new6/img_news/img_61a96f02d50a3.png
+
+https://websiteforcompanyhomepagebackend-737039298.ap-northeast-1.elb.amazonaws.com/add_new6/img_news/img_61a602a423be2.jpg
+http://websiteforcompanyhomepagebackend-737039298.ap-northeast-1.elb.amazonaws.com/add_new6/img_news/img_61a602a423be2.jpg
+https://techflybird.com/add_new6/img_news/img_61a96f02d50a3.png
