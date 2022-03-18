@@ -14,12 +14,14 @@ yarn dev
 ubuntu install npm
 ubuntu install yarn
 Easy to Install Next.js on Ubuntu 20.04
+yarn build
+yarn start 
+
 ```
 
 
 
-yarn build
-yarn start 
+
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
