@@ -8,11 +8,14 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-```
+
+
 
 ubuntu install npm
 ubuntu install yarn
 Easy to Install Next.js on Ubuntu 20.04
+```
+
 
 
 yarn build
