@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1, 
+    "title_en": "Create Business <span>Opportunities</span> Let Your <span>Dreams</span> Today Come True.",
+    "title_cn": "跨越国 <span>界 让业</span> 务遍 <span>佈</span> 全球.",
+    "description_en": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo. ",
+    "description_cn": "痛苦本身就是爱客户的主要原因. 但是这种蛋白质被设计成狮子欲望的一部分.",
+    "bg_en": "slider1.jpg",
+    "bg_cn": "slider1.jpg",
+    "btnText_en": "Get A Quote",
+    "btnText_cn": "获取报价",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 2, 
+    "title_en": "Cherish Resources To Build <span>Environmentally </span> <br>Friendly Business.",
+    "title_cn": "珍惜资源建设 <span>环保</span> <br>友好的业务.",
+    "description_en": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo. ",
+    "description_cn": "痛苦本身就是爱客户的主要原因. 但是这种蛋白质被设计成狮子欲望的一部分.",
+    "bg_en": "slider2.jpg",
+    "bg_cn": "slider2.jpg",
+    "btnText_en": "Contact Us",
+    "btnText_cn": "联系我们",
+    "btnLink": "/contact"
+  } ,
+  {
+    "id": 3, 
+    "title_en": "<span>Across National</span> Boundaries Let <br>The Business All Over The World.",
+    "title_cn": "<span>全国各地</span> 边界让<br>世界各地的业务.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo. ",
+    "description_cn": "痛苦本身就是爱客户的主要原因. 但是这种蛋白质被设计成狮子欲望的一部分.",
+    "bg_en": "slider3.jpg",
+    "bg_cn": "slider3.jpg",
+    "btnText_en": "Get A Quote",
+    "btnText_cn": "获取报价",
+    "btnLink": "/contact"
+  } ,
+  {
+    "id": 4, 
+    "title_en": "<br/>",
+    "title_cn": "<br/>",
+    "description_en": "",
+    "description_cn": "",
+    "bg_en": "slider4_en.png",
+    "bg_cn": "slider4_cn.png",
+    "btnText_en": "Contact Us",
+    "btnText_cn": "联系我们",
+    "btnLink": "/contact"
+  } 
+ 
+]

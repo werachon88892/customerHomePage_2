@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title_en": "<span>Create Business Opportunities Let Your Dreams Today Come True.</span>",
+    "title_cn": "<span>跨越国界让业务遍布全球.</span>",
+    "description_en": " ",
+    "description_cn": " ",
+    "bg_en": "slider1.jpg",
+    "bg_cn": "slider1.jpg",
+    "btnText_en": "Contact Us",
+    "btnText_cn": "联系我们",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 2,
+    "title_en": "<span>Cherish Resources To Build Environmentally <br>Friendly Business.</span>",
+    "title_cn": "<span>珍惜资源 共建环保营商.</span>",
+    "description_en": " ",
+    "description_cn": " ",
+    "bg_en": "slider2.jpg",
+    "bg_cn": "slider2.jpg",
+    "btnText_en": "Contact Us",
+    "btnText_cn": "联系我们",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 3,
+    "title_en": "<span>Across National Boundaries Let <br>The Business All Over The World.</span>",
+    "title_cn": "<span>创造商机 让梦想今日成真.</span>",
+    "description": " ",
+    "description_cn": " ",
+    "bg_en": "slider3.jpg",
+    "bg_cn": "slider3.jpg",
+    "btnText_en": "Contact Us",
+    "btnText_cn": "联系我们",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 4,
+    "title_en": "<br/>",
+    "title_cn": "<br/>",
+    "description_en": "",
+    "description_cn": "",
+    "bg_en": "slider4.jpg",
+    "bg_cn": "slider4.jpg",
+    "btnText_en": "Contact Us",
+    "btnText_cn": "联系我们",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 5,
+    "title_en": "<br/>",
+    "title_cn": "<br/>",
+    "description_en": "",
+    "description_cn": "",
+    "bg_en": "slider5.jpg",
+    "bg_cn": "slider5.jpg",
+    "btnText_en": "Contact Us",
+    "btnText_cn": "联系我们",
+    "btnLink": "/contact"
+  }
+]

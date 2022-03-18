@@ -1,0 +1,51 @@
+[
+  {
+    "_id": 1,
+    "title": "Home",
+    "link": "/",
+    "subMenu":[]
+  },
+  {
+    "_id": 2,
+    "title":"Language",
+    "link": "/",
+    "subMenu":[
+      {
+        "_id": 2.1,
+        "title": "English",
+        "locale": "en",
+        "Flag": "en-US.png"
+      },
+      {
+        "_id": 2.2,
+        "title": "Chinees",
+        "locale": "cn",
+        "Flag": "cn-CN.png"
+      }
+    ]
+  },
+  {
+    "_id":3,
+    "title": "about",
+    "link":"/about",
+    "subMenu":[]
+  },
+  {
+    "_id":4,
+    "title": "news",
+    "link":"/news",
+    "subMenu":[]
+  },
+  {
+    "_id": 5,
+    "title":"apply",
+    "link": "/apply",
+    "subMenu": []
+  },
+   {
+    "_id": 6,
+    "title":"contact",
+    "link": "/contact",
+    "subMenu": []
+  }
+]
